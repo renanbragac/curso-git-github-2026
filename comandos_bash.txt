@@ -1,0 +1,8 @@
+COMANDOS GIT BASH:
+
+ls: lista os arquivos do diretório
+ls -a: lista o que no diretório incluindo arquivos ocultos
+cd: change directory (mudar de diretório, clássico)
+pwd: print working directory (mostra o caminho do diretório)
+mkdir: make dir (criar pasta nova)
+cat: concatenate (ler, criar, exibir e concatenar arquivos de texto diretamente pelo terminal)
