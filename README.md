@@ -13,5 +13,9 @@ Esse aqui é um teste
 Vamo olhar o link do canal do Téo: youtube.com/@teomewhy
 Hehe!
 
+Além do youtube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2026!
+
+teomewhy.org
+
 Confira!
 
