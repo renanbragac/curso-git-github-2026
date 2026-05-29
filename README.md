@@ -9,5 +9,9 @@ Além disso vamos trabalhar com Gitflow
 ao final do curso e
 VS Code.
 
-Cnnfira!
+Esse aqui é um teste
+Vamo olhar o link do canal do Téo: youtube.com/@teomewhy
+Hehe!
+
+Confira!
 
